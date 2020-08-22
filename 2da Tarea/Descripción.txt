@@ -1,0 +1,4 @@
+Dibujo de una casa en 3D, 
+separandola en partes (techo y paredes), 
+añadiendo color a cada una de ellas,
+trabajando con perspectiveProjection y lookAt
