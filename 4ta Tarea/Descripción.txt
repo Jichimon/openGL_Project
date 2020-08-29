@@ -1,0 +1,11 @@
+- Aplicando transformaciones a partes individuales
+	abrir y cerrar la puerta
+	moviendo el techo
+- Viendo como "apilar" transformaciones... por ejemplo
+	para abrir y cerrar la puerta, independientemente donde esté
+	primero se mueve toda la casa a su posición inicial
+	se mueve el punto de giro de la puerta al 0.0.0
+	se gira la puerta
+	se vuelve la puerta a la posicion inicial
+	toda la casa se mueve a la posicion anterior
+	y recién se renderiza
