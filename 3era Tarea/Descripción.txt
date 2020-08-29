@@ -1,0 +1,7 @@
+- Aplicando transformaciones básicas al objeto Casa
+	Rotación, Traslación y Escalación
+	Utilizando input del teclado
+- Ojo: las rotaciones las realiza sobre el eje central 0.0.0,
+	no sobre su propio eje...
+	si queremos que rote sobre su propio eje tenemos que "apilar"
+	transformaciones
